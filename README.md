@@ -5,3 +5,4 @@ Datos alojados en la plataforma de datos abiertos Colombia: https://www.datos.go
 Eventos naturales o antrópicos no intencionales ocurridos durante los años 2019- 2020- 2021- 2022, que fueron reportados a la UNGRD.
 Datos alojados en la plataforma de datos abiertos Colombia: https://www.datos.gov.co/Ambiente-y-Desarrollo-Sostenible/Emergencias-UNGRD-/wwkg-r6te Fecha de Áctualización: Octubre 10/2023
 3. Limpieza y análisis exploratorio de datos de PetMind una comercializadora minorista de productos para mascotas.
+4. Análisis exploratorio de datos de una compañía de ventas online a nivel global. Proyecto programa Data Analyst IBM.
