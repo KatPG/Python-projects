@@ -7,3 +7,4 @@ Datos alojados en la plataforma de datos abiertos Colombia: https://www.datos.go
 3. Limpieza y análisis exploratorio de datos de PetMind una comercializadora minorista de productos para mascotas.
 4. Análisis exploratorio de datos de una compañía de ventas online a nivel global. Proyecto programa Data Analyst IBM.
 5. Análisis exploratorio y predictivo del costo de los seguros médicos en EE. UU. El análisis se enfoca en la detección de patrones y/o relaciones entre diferentes grupos de la población e identificando las diferencias entre sexos.
+6. Análisis exploratorio y predictivo de la calidad del agua según su destinación final, de acuerdo a las características fisicoquímicas del cuerpo de agua.
