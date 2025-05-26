@@ -4,13 +4,13 @@ El proyecto utiliza el conjunto de datos Medical Cost Personal Dataset, que cont
 Fuente: Kaggle - Medical Cost Personal Dataset
 
 ### Técnicas utilizadas
-Análisis exploratorio de datos (EDA)
-Transformación de variables categóricas (one-hot encoding)
-Estratificación por grupos de edad e IMC
-Modelos de regresión supervisada: `Regresión Lineal`, `Árbol de Decisión` y `Bosque Aleatorio (Random Forest)`.
-Validación cruzada
-Evaluación con R² y RMSE
-Análisis de importancia de características
+- Análisis exploratorio de datos (EDA)
+- Transformación de variables categóricas (one-hot encoding)
+- Estratificación por grupos de edad e IMC
+- Modelos de regresión supervisada: `Regresión Lineal`, `Árbol de Decisión` y `Bosque Aleatorio (Random Forest)`.
+- Validación cruzada
+- Evaluación con R² y RMSE
+- Análisis de importancia de características
 
 ### Hallazgos clave
 - El modelo con mejor desempeño fue el regresor de bosque aleatorio, con un R² de 0.879 y un RMSE de 4378.8 USD en el conjunto de prueba.
