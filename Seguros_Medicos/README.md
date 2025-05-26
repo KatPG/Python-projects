@@ -13,8 +13,8 @@ Evaluación con R² y RMSE
 Análisis de importancia de características
 
 ### Hallazgos clave
-El modelo con mejor desempeño fue el regresor de bosque aleatorio, con un R² de 0.879 y un RMSE de 4378.8 USD en el conjunto de prueba.
-Las variables más influyentes en la predicción del costo médico son: la condición de fumador, edad y el índice de masa corporal (IMC).
-No se observaron diferencias significativas en el costo promedio entre hombres y mujeres, pero los hombres mostraron mayor variabilidad en los costos, especialmente entre fumadores y personas con obesidad.
-El análisis evidencia que la combinación de factores de riesgo (mayor edad, condición de fumador y sobrepeso) incrementa notablemente el costo del seguro.
+- El modelo con mejor desempeño fue el regresor de bosque aleatorio, con un R² de 0.879 y un RMSE de 4378.8 USD en el conjunto de prueba.
+- Las variables más influyentes en la predicción del costo médico son: la condición de fumador, edad y el índice de masa corporal (IMC).
+- No se observaron diferencias significativas en el costo promedio entre hombres y mujeres, pero los hombres mostraron mayor variabilidad en los costos, especialmente entre fumadores y personas con obesidad.
+- El análisis evidencia que la combinación de factores de riesgo (mayor edad, condición de fumador y sobrepeso) incrementa notablemente el costo del seguro.
 
