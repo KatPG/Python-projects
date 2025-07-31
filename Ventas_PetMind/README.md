@@ -1,5 +1,5 @@
 # PetMind - Análisis Exploratorio de Datos
-Este análisis explora cómo las compras repetidas impactan las ventas de **PetMind** es una empresa minorista de productos para mascotas.
+Este análisis explora cómo las compras repetidas impactan las ventas de **PetMind**, una empresa minorista de productos para mascotas.
 
 ## Descripción del Conjunto de Datos
 El conjunto de datos incluye registros de ventas del último año y contiene las siguientes columnas:
