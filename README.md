@@ -12,3 +12,5 @@ Repositorio con proyectos personales de análisis y modelado de datos empleando 
    Análisis de variables demográficas y hábitos de salud para estimar el costo del seguro médico mediante modelos de regresión.
 5. [Análisis de la calidad del agua](./Calidad_del_Agua/).
    Análisis de la potabilidad del agua según sus características físico-químicas utilizando modelos de clasificación.
+6. [Datachallenge Bevindo](./DataChallenge_Bevindo/)
+   Análisis exploratorio de datos de operaciones comerciales, productos y clientes de la empresa e-comerce ***Bevindo***.
